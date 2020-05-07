@@ -10,7 +10,8 @@ public class understandtestng1 {
 		// TODO Auto-generated method stub
 		System.out.println("Understand testng.xml file");
 		
-		List l = new ArrayList();
+		//Commenting out redundant code
+		// List l = new ArrayList();
 	}
 
 }
